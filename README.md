@@ -16,7 +16,8 @@ interface (GUI)
 - The Challenging part was parsing the branches inside each line, because we were trying to find a patterned sequence to use in the parsing code, but eventually we managed to parse them correctly. the following picture shows the parsed information for each line:
 ![image](https://github.com/Noha-A-Kh/Advanced-Programming-Project/assets/125829152/f8dddd2d-7b46-4b2c-be10-e4716bd799db)  
 
-- the second part was for updating the extracted raw information into a useful representation, for example calculating the start and end point of each line and branch and view them in the form of x1,y1 and x2,y2. in order to be able to pass this information as proper parameters to the GUI app. the following photo shows an example: ![image](https://github.com/Noha-A-Kh/Advanced-Programming-Project/assets/125829152/600e8a46-ae99-402d-a9ff-b857b1560ac9)  
+- the second part was for updating the extracted raw information into a useful representation, for example calculating the start and end point of each line and branch and view them in the form of x1,y1 and x2,y2. in order to be able to pass this information as proper parameters to the GUI app. the following photo shows an example:
+![image](https://github.com/Noha-A-Kh/Advanced-Programming-Project/assets/125829152/600e8a46-ae99-402d-a9ff-b857b1560ac9)  
 
 
 
