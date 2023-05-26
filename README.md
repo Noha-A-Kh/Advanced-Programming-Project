@@ -1,5 +1,6 @@
 # Advanced-Programming-Project
-Simulink Viewer 
+Simulink Viewer  
+
 The aim of this project is to develop a software tool that can read Simulink MDL files 
 and display their contents in a user-friendly way using a Java-based graphical user 
 interface (GUI) 
