@@ -22,6 +22,8 @@ interface (GUI)
 ![image](https://github.com/Noha-A-Kh/Advanced-Programming-Project/assets/125829152/600e8a46-ae99-402d-a9ff-b857b1560ac9)  
 
 3) The third and last part was displaying the elements. As we were challenged because of time, we didn't get to handle the case of a line that has multi pathes before reaching its destination. The output of our program for the example file is shown in the picture below:  
+![WhatsApp Image 2023-05-26 at 23 05 33](https://github.com/Noha-A-Kh/Advanced-Programming-Project/assets/125829152/7893b5c4-b68b-44d3-ab9a-0f3532e17d1c)
+
 
 
 
